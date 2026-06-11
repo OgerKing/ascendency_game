@@ -1,0 +1,21 @@
+I am starting a new DND campaign tonight. 
+I need to create a campaign setting world and corresponding content.  Should be high fantasy, DND 5e, should be a "Death world". Think Dark Sun, but in a Jungle instead of a desert.
+Campaign concept -> Ascendency Wars. Player characters have awakened a divine seed in themselves and as they level up they gain divine powers, as they progress towards godhood. 
+Other ascendents on the world are creating factions and vieing for resources. Possibly feeding on the divine spark of other Ascendants.  
+
+
+Need to develop content for the base world. The players will be playing in a Mountain based Dwarven city, that is under attack from the Underdark. 
+Session one should be escaping the city and unlocking their divine cores. 
+
+Need to develop a 5e compatible system that manages Ascendency based powers. Should be an alternate feat system. 
+Characters should be presented with an Ascendency based theme, and corresponding powers. Its ok to duplicate power rules as long as they are skinned differently. 
+
+I want to build an application to support the game too. 
+
+APP
+1. Vercel hostable app.
+2.  Should be a data browser based app.
+3.  have a content based website that talks about regions and things things associated with those regions.  I like the lay out in the tsr01031 doc.
+4. Would like to copy that organbizational layout, but with my own content. 
+
+
