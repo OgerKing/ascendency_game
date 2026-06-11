@@ -1,0 +1,12 @@
+{
+  "id": "the-cinder-vigil",
+  "title": "The Cinder Vigil",
+  "type": "religion",
+  "tags": ["religion", "fire", "watch", "omens", "survival"],
+  "threatLevel": "high",
+  "connectedFactions": ["cinder-concord", "rootbound-choir"],
+  "relatedEntries": ["emberfall-crossing", "foundations", "ascendency-v1"],
+  "atAGlance": "The Cinder Vigil is a watch-faith that reads storm ash, emberfall, and furnace smoke as warnings from the world-spirit of Vharos.",
+  "sageNotes": "Vigil keepers are less temple clergy and more weather wardens with prayer-books. They map ash drift, bell crack, and flame color, then preach practical precautions as holy duty. Their roadside braziers mark safe camps in bad seasons, and caravans that ignore those lights often vanish by dawn. Outsiders mock them as soot prophets until the first bloomstorm hits and everyone is begging for their route marks.",
+  "gameInformation": "Useful for foreshadowing hazards and steering travel decisions without railroading. Vigil contacts can provide omen-based advantage on route planning or weather prep checks. Complication: a false Vigil sect is spreading panic signals to clear trade lanes for raiders."
+}

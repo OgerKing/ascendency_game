@@ -1,0 +1,12 @@
+{
+  "id": "tide-path",
+  "title": "Ascendency Path of Tide",
+  "type": "ascendency-path",
+  "tags": ["control", "flow", "healing"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["rootbound-choir"],
+  "relatedEntries": ["ascendency-v1", "wild-path", "verdant-maw"],
+  "atAGlance": "A flow-oriented path built around pressure shifts, soft control, and restorative surges.",
+  "sageNotes": "Tide bearers shape battle by flow rather than force, shifting position and restoring allies at the right breath. They excel where timing matters more than fury, pulling comrades from collapse and pushing foes out of rhythm. Marsh scouts call it the path of patient victories earned by sequence, not spectacle.",
+  "gameInformation": "Supports controllers and support casters. Typical unlocks include reposition waves, condition-softening pulses, and reaction healing gates."
+}

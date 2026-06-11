@@ -1,0 +1,12 @@
+{
+  "id": "crownflame-lift-guild",
+  "title": "Crownflame Lift Guild",
+  "type": "organization",
+  "tags": ["organization", "guild", "logistics", "kharad-vul", "infrastructure"],
+  "threatLevel": "high",
+  "connectedFactions": ["basalt-crown", "cinder-concord"],
+  "relatedEntries": ["kharad-vul", "session-one-breaking-of-kharad-vul", "vell-three-tallies-marr"],
+  "atAGlance": "The Lift Guild keeps Kharad-Vul alive by managing chain towers, cargo cages, and emergency ascents between lower and upper districts.",
+  "sageNotes": "No crown decree moves faster than a liftman with a wrench and a grudge. The guild knows which chains are safe, which brakes are lying, and which overseers can be bribed to delay an evacuation queue. Their public oath is service to the city; their private truth is that lift priority decides who survives a breach night. Most captains treat them with respect, because nobody wants to climb five terraces in full armor when the ash alarms start.",
+  "gameInformation": "Use as a logistics power broker that can grant or deny vertical access. Benefits: shortcut routes, heavy cargo movement, emergency evac windows. Costs: political favors, labor protection demands, or priority conflicts between military and civilian lifts. Complication trigger: sabotage to chain braking systems during active evacuation."
+}

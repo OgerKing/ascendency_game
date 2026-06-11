@@ -1,0 +1,12 @@
+{
+  "id": "maela-stepscribe",
+  "title": "Maela Stepscribe",
+  "type": "notable-npc",
+  "tags": ["npc", "market", "broker", "ember-market", "ledger"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["ash-mark-brokers", "cinder-concord"],
+  "relatedEntries": ["ember-market-stairs", "ash-mark-brokers", "vell-three-tallies-marr"],
+  "atAGlance": "Maela Stepscribe is a market-bell broker who records terrace bids, cargo claims, and emergency reroute rights in the Ember Market Stairs.",
+  "sageNotes": "Maela writes with chalk on slate strips tied to her wrist, then burns the slates at dusk unless the law says otherwise. Traders trust her numbers because she is too practical to lie when three hundred witnesses are watching the same staircase. She can price anything from rope lots to relic scrap in three breaths, and she always notices when panic changes what people are willing to sell. If Maela says a district is buying lamp oil like a siege is coming, believe her before the bells agree.",
+  "gameInformation": "Use as an economic intelligence node and procurement gatekeeper. She can expedite legal purchases, reveal black-market substitution, and forecast district shortages. Hook: Maela's destroyed slate archive could prove whether a recent panic was staged for market manipulation."
+}

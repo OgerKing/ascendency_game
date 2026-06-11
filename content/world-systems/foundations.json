@@ -1,0 +1,12 @@
+{
+  "id": "foundations",
+  "title": "World Foundations of Vharos",
+  "type": "world-system",
+  "tags": ["calendar", "language", "currency", "religion", "survival"],
+  "threatLevel": "high",
+  "connectedFactions": ["basalt-crown", "rootbound-choir", "cinder-concord"],
+  "relatedEntries": ["kharad-vul", "session-one-breaking-of-kharad-vul"],
+  "atAGlance": "Vharos is a death-jungle world where fortified settlements cling to high stone and trade is measured by route survivability. Time is tracked in ten-day turns, faith is practical and local, and wealth follows relic salvage plus caravan security.",
+  "sageNotes": "On Vharos, safety is the first currency and distance is measured by what survives the road. Calendars, faith rites, and market law all bend around route risk, weather violence, and faction control of chokepoints. Every region keeps its own customs, but all share one lesson: comfort is temporary and preparedness is culture.",
+  "gameInformation": "Use a regional hazard check once per travel day outside fortified roads. On a failed party Survival or Navigator check, trigger one of: toxic bloom weather, apex predator trail, or faction ambush opportunity. Religious and civic institutions provide downtime boons only if faction clocks are below 4."
+}

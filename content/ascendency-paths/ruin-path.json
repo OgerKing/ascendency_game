@@ -1,0 +1,12 @@
+{
+  "id": "ruin-path",
+  "title": "Ascendency Path of Ruin",
+  "type": "ascendency-path",
+  "tags": ["siege", "breakthrough", "destruction"],
+  "threatLevel": "cataclysmic",
+  "connectedFactions": ["hollow-synod", "basalt-crown"],
+  "relatedEntries": ["ascendency-v1", "war-path", "kharad-vul"],
+  "atAGlance": "A breakthrough path for shattering fortifications, disrupting formations, and ending stalemates violently.",
+  "sageNotes": "Ruin bearers are siege-breakers who end stalemates with brutal precision. Their gift is not chaos, but knowing exactly which wall, anchor, or command point must fall first. When commanders whisper that a fortress cannot be taken, this is the path they quietly commission.",
+  "gameInformation": "Built for siege and anti-structure play. Keep direct PC-target burst balanced by situational requirements and setup costs."
+}

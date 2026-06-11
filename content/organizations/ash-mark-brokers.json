@@ -1,0 +1,12 @@
+{
+  "id": "ash-mark-brokers",
+  "title": "Ash-Mark Brokers",
+  "type": "organization",
+  "tags": ["organization", "brokers", "smuggling", "concord", "debt"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["cinder-concord", "basalt-crown"],
+  "relatedEntries": ["emberfall-crossing", "cinder-concord", "vell-three-tallies-marr"],
+  "atAGlance": "The Ash-Mark Brokers are a licensed-deniable network of fixers who trade in permits, manifests, discreet escorts, and dangerous information.",
+  "sageNotes": "You can spot them by clean gloves in dirty districts. Ash-Mark agents keep ledgers in coded charcoal grids and speak in delivery windows instead of promises. They can source medicine, forged passage tags, and a dozen other miracles before dusk, but each favor carries a debt mark that matures at the worst possible hour. In Emberfall they are tolerated; in Kharad-Vul they are necessary; everywhere else they are blamed after the fact.",
+  "gameInformation": "Treat as a flexible quest hub with escalating social cost. They can open black-market supply lines, leak troop movement rumors, or broker temporary truces. Debt mechanics: each major favor adds one marker that the GM can spend for complications, side missions, or faction pressure."
+}

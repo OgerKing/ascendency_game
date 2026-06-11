@@ -1,0 +1,12 @@
+{
+  "id": "wild-path",
+  "title": "Ascendency Path of Wild",
+  "type": "ascendency-path",
+  "tags": ["adaptation", "survival", "predator"],
+  "threatLevel": "high",
+  "connectedFactions": ["rootbound-choir"],
+  "relatedEntries": ["ascendency-v1", "verdant-maw", "rootbound-choir"],
+  "atAGlance": "A primal adaptation path centered on resilience, pursuit, and environmental dominance.",
+  "sageNotes": "Wild bearers survive by adapting faster than the land can kill them. They read terrain, scent pursuit, and strike only when ground and weather favor the cut. In the Verdant Maw, guides say a Wild adept hunts like storm-cat and endures like old rootstone.",
+  "gameInformation": "Supports skirmishers and survival specialists. Core unlock examples: Predator Sense, Thornhide Metabolism, Sovereign Morph, and Verdant Cataclysm."
+}

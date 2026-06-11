@@ -1,0 +1,12 @@
+{
+  "id": "blackchain-salvagers-compact",
+  "title": "Blackchain Salvagers Compact",
+  "type": "organization",
+  "tags": ["organization", "salvage", "ruins", "hazard", "contract"],
+  "threatLevel": "high",
+  "connectedFactions": ["cinder-concord", "rootbound-choir", "basalt-crown"],
+  "relatedEntries": ["verdant-maw", "shatterveins", "ash-mark-brokers"],
+  "atAGlance": "The Blackchain Compact is a licensed salvage syndicate that extracts relics from collapse zones and auction-routes finds through controlled channels.",
+  "sageNotes": "Blackchain crews walk where armies hesitate: half-flooded vaults, root-choked towers, and tunnel segments that groan in six languages. Their foremen wear chain-black gloves to mark legal claim under compact law, and everyone else pretends that makes salvage honorable. They have saved towns with one haul and doomed districts with the next, depending on who bought the crate. In Vharos, profit and archaeology are rarely introduced politely.",
+  "gameInformation": "Use as quest patrons, rivals, or fallout engines for relic-driven plots. They can fund expeditions, supply breach gear, and identify ruins quickly. Complication: a salvager ledger reveals one party ally unknowingly carries a tagged relic under disputed ownership."
+}

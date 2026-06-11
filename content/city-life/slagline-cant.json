@@ -1,0 +1,12 @@
+{
+  "id": "slagline-cant",
+  "title": "Slagline Cant",
+  "type": "city-life",
+  "tags": ["city-life", "language", "slang", "workers", "kharad-vul"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["crownflame-lift-guild", "basalt-crown"],
+  "relatedEntries": ["kharad-vul", "chain-and-cask", "rake-quicktongue"],
+  "atAGlance": "Slagline Cant is a clipped worker slang used by lift crews, forge hands, and sentries to communicate quickly across noise, smoke, and crowd panic.",
+  "sageNotes": "Cant began as practical shorthand shouted over hammerfall, then spread into taverns, contracts, and even court testimony when judges needed plain speech. A phrase like 'three down, ash high' can mean weather, casualties, and route danger in a single breath depending on tone. Nobles mock it until they need a floor boss to explain why their caravan is stranded. If someone tells you 'rope honest, bell false,' trust the rope and find a new commander.",
+  "gameInformation": "Use as social texture and a lightweight code mechanic. PCs fluent in Slagline can parse hidden warnings, detect forged orders, or gain advantage in worker districts. Quick table seeds: slang misunderstandings causing duels, coded graffiti marking safe alleys, or a witness who will only testify in cant before guild elders."
+}

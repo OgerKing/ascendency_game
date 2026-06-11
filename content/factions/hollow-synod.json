@@ -1,0 +1,12 @@
+{
+  "id": "hollow-synod",
+  "title": "The Hollow Synod",
+  "type": "faction",
+  "tags": ["underdark", "theocracy", "ritual", "harvest"],
+  "threatLevel": "cataclysmic",
+  "connectedFactions": ["basalt-crown", "cinder-concord"],
+  "relatedEntries": ["shatterveins", "war-path", "kharad-vul"],
+  "atAGlance": "A subterranean cult-state pursuing spark amalgamation through abduction and sacrificial engineering.",
+  "sageNotes": "The Hollow Synod is no rabble of cave raiders, but a disciplined cult-state devoted to harvest and forced union of divine sparks. Its cells move by ritual order, preparing ambushes and reinforcements long before a strike is seen. Surface folk fear the Synod not only for cruelty, but for patience.",
+  "gameInformation": "Synod cells favor layered ambushes, narrow kill-zones, and attrition through exhaustion. Defeating ritual nodes before completion prevents major Harvest Clock jumps and denies enemy reinforcement waves."
+}

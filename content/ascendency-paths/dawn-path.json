@@ -1,0 +1,12 @@
+{
+  "id": "dawn-path",
+  "title": "Ascendency Path of Dawn",
+  "type": "ascendency-path",
+  "tags": ["radiant", "leadership", "recovery"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["basalt-crown"],
+  "relatedEntries": ["ascendency-v1", "forge-path", "kharad-vul"],
+  "atAGlance": "A radiant command path that stabilizes allies and punishes creatures exploiting fear or darkness.",
+  "sageNotes": "The Dawn Path is borne by captains and wardens who refuse to let terror break a line. Its light is practical rather than grand, steadying hands, restoring courage, and turning defense into disciplined reply. When smoke climbs and bells falter, Dawn bearers are usually the first rally point left standing.",
+  "gameInformation": "Strong on ally support and morale pressure. Features should emphasize temporary buffs, fear resistance, and line-holding tools."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "bone-path",
+  "title": "Ascendency Path of Bone",
+  "type": "ascendency-path",
+  "tags": ["endurance", "necrotic", "attrition"],
+  "threatLevel": "high",
+  "connectedFactions": ["hollow-synod"],
+  "relatedEntries": ["ascendency-v1", "hollow-synod", "shatterveins"],
+  "atAGlance": "An attrition path that converts pain and depletion into defensive stamina and grim retaliation.",
+  "sageNotes": "Bone bearers are remembered by the scars that should have ended them and did not. They turn suffering into endurance, then answer attrition with grim, deliberate retaliation. In Vharos, people say a Bone adept rarely wins first, but almost always remains when the ash settles.",
+  "gameInformation": "Frontline survival path with temporary hit points, necrotic resilience, and death-save support. Keep offensive riders tightly limited to once per turn."
+}

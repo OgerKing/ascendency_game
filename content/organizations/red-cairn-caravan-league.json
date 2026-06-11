@@ -1,0 +1,12 @@
+{
+  "id": "red-cairn-caravan-league",
+  "title": "Red Cairn Caravan League",
+  "type": "organization",
+  "tags": ["organization", "caravans", "trade", "frontier", "security"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["cinder-concord", "basalt-crown"],
+  "relatedEntries": ["emberfall-crossing", "the-cinder-vigil", "ember-ranger-wayfinder"],
+  "atAGlance": "The Red Cairn League is a merchant-marshal coalition that runs guarded caravan corridors between fortress nodes and salvage towns.",
+  "sageNotes": "They paint route cairns in red slurry so even storm-scoured stone keeps a faint line to follow. League law is blunt: no abandoned wounded, no silent reroutes, no private war under convoy banners. Their captains are half logisticians, half judges, and fully willing to blacklist nobles who threaten route stability. If you can read their marker stones, you can survive half of Vharos without ever seeing a map.",
+  "gameInformation": "Use as an economic power that can sponsor long travel arcs or cut off supplies. Benefits include convoy escort access, route intelligence, and bulk gear movement. Complication trigger: forged Red Cairn markers lure a high-value caravan into an engineered choke ambush."
+}

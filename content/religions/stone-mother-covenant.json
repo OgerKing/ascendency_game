@@ -1,0 +1,12 @@
+{
+  "id": "stone-mother-covenant",
+  "title": "Stone-Mother Covenant",
+  "type": "religion",
+  "tags": ["religion", "mountain", "ancestral", "oath", "dwarven"],
+  "threatLevel": "high",
+  "connectedFactions": ["basalt-crown", "keepers-of-the-ninth-rivet"],
+  "relatedEntries": ["kharad-vul", "forge-path", "grave-chant-cleric-order"],
+  "atAGlance": "The Stone-Mother Covenant venerates mountain memory, ancestral labor, and sworn stewardship of holds carved from living rock.",
+  "sageNotes": "Covenant rites are never rushed. Petitioners speak names of dead builders before any major civic decision, because the mountain is believed to remember every cut made against it. Their matrons arbitrate foundation disputes, tunnel taboos, and blood-debt settlements that civil courts cannot touch. To outsiders they seem stubborn; to locals they are the last institution still speaking for the unborn.",
+  "gameInformation": "Use as a conservative but influential legal-faith in mountain campaigns. They can authorize sacred excavations, forbid unstable digs, and settle inheritance conflicts over forges and keeps. Complication: a newly exposed chamber is holy to the Covenant and strategically vital to the Crown."
+}

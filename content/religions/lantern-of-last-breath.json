@@ -1,0 +1,12 @@
+{
+  "id": "lantern-of-last-breath",
+  "title": "Lantern of Last Breath",
+  "type": "religion",
+  "tags": ["religion", "mercy", "healing", "pilgrimage", "night-watch"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["cinder-concord", "rootbound-choir"],
+  "relatedEntries": ["emberfall-crossing", "the-cinder-vigil", "sister-halea-ashmantle"],
+  "atAGlance": "The Lantern of Last Breath is a mercy faith devoted to sheltering travelers, tending the dying, and keeping refuge fires lit through siege and storm.",
+  "sageNotes": "Their priests carry hooded lamps with mirrored backs, so one flame lights both the road ahead and the face behind. Lantern houses are known for strict neutrality: no blood dues, no bounty claims, no arrests inside the door unless the keeper permits it. In hard seasons, refugees trust these sanctuaries more than town walls. Many soldiers mock them in daylight and pray at their thresholds after midnight.",
+  "gameInformation": "Use as safe-haven nodes for recovery, rumor exchange, and moral tension scenes. Mechanical utility: temporary refuge boons, medical aid, and neutral-ground negotiations. Hook: a Lantern hospice hides a witness whose testimony could fracture two allied factions."
+}

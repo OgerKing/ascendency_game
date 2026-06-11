@@ -1,0 +1,12 @@
+{
+  "id": "ironbound-barbarian-tradition",
+  "title": "Ironbound Barbarian Tradition",
+  "type": "class",
+  "tags": ["class", "barbarian", "frontline", "mountain", "dwarven"],
+  "threatLevel": "high",
+  "connectedFactions": ["basalt-crown"],
+  "relatedEntries": ["kharad-vul", "war-path", "brakka-ironveil"],
+  "atAGlance": "Ironbound barbarians are mountain shock troops who channel fury through disciplined stance-work, shield hooks, and chain-line pushes rather than reckless charges.",
+  "sageNotes": "Travelers expect a frothing berserker and get a grim wall-breaker instead. The Ironbound teach that rage is a tool, not a personality: breathe once, set boots, then break whatever line threatens your kin. In Kharad-Vul their veterans train beside lift chains and slag pits, so every strike is about leverage and footing. If you hear a sergeant shout 'Anchor and turn,' someone is about to be thrown off a ledge.",
+  "gameInformation": "Use for PCs or elite NPC defenders in vertical siege scenes. Signature play pattern: shove, pin, and punish movement through chokepoints. Give environmental bonuses on catwalks, stairs, and lift platforms. Social hook: Ironbound mentors respect oaths kept under pressure; broken promises can lock off military support until reparations are made."
+}

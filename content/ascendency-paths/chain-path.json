@@ -1,0 +1,12 @@
+{
+  "id": "chain-path",
+  "title": "Ascendency Path of Chain",
+  "type": "ascendency-path",
+  "tags": ["binding", "lockdown", "discipline"],
+  "threatLevel": "high",
+  "connectedFactions": ["basalt-crown"],
+  "relatedEntries": ["ascendency-v1", "kharad-vul", "forge-path"],
+  "atAGlance": "A control path focused on binding movement, punishing escape, and enforcing battlefield order.",
+  "sageNotes": "Chain bearers are wardens of order where panic spills faster than blood. Their craft is to bind motion, deny escape, and hold larger threats in place until others can live. In breach districts, survivors still name the fighters who kept the stairwells and lift rails from becoming slaughter lanes.",
+  "gameInformation": "Controller path with restrained/slow themes and zone denial. Avoid hard-lock loops by capping repeat restraint effects per target."
+}

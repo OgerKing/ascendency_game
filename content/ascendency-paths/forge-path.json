@@ -1,0 +1,12 @@
+{
+  "id": "forge-path",
+  "title": "Ascendency Path of Forge",
+  "type": "ascendency-path",
+  "tags": ["defense", "oath", "craft"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["basalt-crown"],
+  "relatedEntries": ["ascendency-v1", "kharad-vul", "basalt-crown"],
+  "atAGlance": "A defensive path emphasizing oath-bound warding, support play, and empowered equipment.",
+  "sageNotes": "Forge bearers swear by ward, rune, and iron discipline, building safety before claiming glory. Their oaths are carried in gear, shield lines, and names remembered after a retreat. Veterans of Kharad-Vul still claim a true Forge adept can make a collapsing hold stand one hour longer than fate intended.",
+  "gameInformation": "Ideal for protectors and support hybrids. Core unlock examples: Ember Ward, Runebond Armament, Bastion Pulse, and Anvil of Stars."
+}

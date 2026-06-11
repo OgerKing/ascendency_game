@@ -1,0 +1,27 @@
+{
+  "id": "ascendency-v1",
+  "title": "Ascendency Rules v1",
+  "type": "world-system",
+  "tags": ["5e", "alternate-feat", "progression", "gm-tools"],
+  "threatLevel": "high",
+  "connectedFactions": ["basalt-crown", "rootbound-choir", "cinder-concord", "hollow-synod"],
+  "relatedEntries": [
+    "war-path",
+    "wild-path",
+    "veil-path",
+    "forge-path",
+    "storm-path",
+    "tide-path",
+    "bone-path",
+    "dawn-path",
+    "dusk-path",
+    "chain-path",
+    "mirror-path",
+    "hunger-path",
+    "ruin-path",
+    "star-path"
+  ],
+  "atAGlance": "Ascendency is a parallel progression track unlocked in session one and advanced across four level bands from Awakened to Apex.",
+  "sageNotes": "Most accounts trace modern Ascendency awakenings to crisis moments, when mortal limits split and a divine core answers pressure with power. Scholars in Kharad-Vul argue the spark resembles older heroic traditions, yet manifests as personal expression rather than inherited office. Across Vharos, people now track Ascendants as earlier ages tracked kings: by what changes when they arrive.",
+  "gameInformation": "Use docs/campaign/ascendency-v1-rules.md and docs/campaign/ascendency-path-comparison.md as the canonical web docs. Keep damage boosts bounded, cap repeated control loops, and apply faction clocks whenever spark conflict escalates political pressure."
+}

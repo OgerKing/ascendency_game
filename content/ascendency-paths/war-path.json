@@ -1,0 +1,12 @@
+{
+  "id": "war-path",
+  "title": "Ascendency Path of War",
+  "type": "ascendency-path",
+  "tags": ["martial", "momentum", "command"],
+  "threatLevel": "high",
+  "connectedFactions": ["basalt-crown", "hollow-synod"],
+  "relatedEntries": ["ascendency-v1", "session-one-breaking-of-kharad-vul", "basalt-crown"],
+  "atAGlance": "A dominance-focused path for characters who turn positioning and pressure into decisive battlefield swings.",
+  "sageNotes": "War bearers turn position into momentum with ruthless clarity, seizing ground so others can stand. Outsiders call them butchers, yet the finest are line-holders who break enemy will at decisive instants. In breach doctrine, a War core is what orders sound like when they become action.",
+  "gameInformation": "Best for frontliners and tactical controllers. Core unlock examples: Marked Strike, Godstep Charge, Banner of Ruin, and Thronebreaker Edict. Limit bonus damage riders to once per turn to preserve class balance."
+}

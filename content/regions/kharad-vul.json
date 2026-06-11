@@ -1,0 +1,12 @@
+{
+  "id": "kharad-vul",
+  "title": "Kharad-Vul, Mountain City of Chains",
+  "type": "region",
+  "tags": ["dwarven", "mountain", "siege", "underdark"],
+  "threatLevel": "cataclysmic",
+  "connectedFactions": ["basalt-crown", "hollow-synod"],
+  "relatedEntries": ["shatterveins", "session-one-breaking-of-kharad-vul", "basalt-crown"],
+  "atAGlance": "Kharad-Vul (kah-RAD VOOL) is a vertical dwarven fortress-city of chain lifts, forge terraces, cistern bridges, and gate shrines cut straight into black mountain stone. Its busiest districts are Chainwell Ward, the Lower Forges, and the old Ember Market, where even under siege people still trade, drink, and argue under bell alarms. Civil order survives through oath-law and strict watch rotations, but every bell-strike marks a new breach risk from below.",
+  "sageNotes": "In Kharad-Vul, every district has a bell code, every oath has witnesses, and every shortcut has a price. Travelers learn the city's true pulse in places like the Chain & Cask near Chainwell, Bellows Rest above the slag chutes, and the Shrine of the Nine Rivets where captains swear before forge-fire and stone. Names carry weight here: Captain Brakka Ironveil of the Basalt Crown, Liftmaster Odrin Slatehand, Sister Halea Ashmantle at the shrine triage, and Vell 'Three-Tallies' Marr, who can sell a way out before he sells you a drink. Dawn lines form at the cisterns, militia shifts change by bell, and the hardest question in the city is never whether danger is coming, but who rises first when the lifts cannot take all.",
+  "gameInformation": "Session-one-ready route: Chain & Cask muster point -> Lower Forges fallback line -> Shrine of the Nine Rivets evacuation triage -> Ash Lift ascent toward Crown terraces. Use vertical pressure every scene (jammed chain gears, cut ropeways, smoke rising uphill). Reusable complications: stolen lift keys, false Crown orders, Concord debt-claims on refugee slots, Synod tunneler breakthrough behind barricades. Breach Clock beats: 2 (market panic), 4 (district blackout), 6 (gate collapse and forced relocation). Reward players who secure NPC trust (Brakka, Odrin, Halea, Vell) with shortcuts, reinforcements, or cleaner extraction windows."
+}

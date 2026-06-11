@@ -1,0 +1,12 @@
+{
+  "id": "storm-path",
+  "title": "Ascendency Path of Storm",
+  "type": "ascendency-path",
+  "tags": ["lightning", "mobility", "burst"],
+  "threatLevel": "high",
+  "connectedFactions": ["cinder-concord"],
+  "relatedEntries": ["ascendency-v1", "veil-path", "session-one-breaking-of-kharad-vul"],
+  "atAGlance": "A velocity path that converts momentum into thunderous strikes and sudden repositioning.",
+  "sageNotes": "Storm bearers strike like weather over exposed ridge: sudden, mobile, and difficult to pin. Their strength is momentum, turning movement into pressure before enemies can reset formation. In skirmish doctrine, a Storm adept is often first contact and final withdrawal in the same breath.",
+  "gameInformation": "Best for skirmishers and gish builds. Signature effects focus on lightning riders, forced movement, and initiative control without replacing core class output."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "keepers-of-the-ninth-rivet",
+  "title": "Keepers of the Ninth Rivet",
+  "type": "religion",
+  "tags": ["religion", "oath", "dwarven", "craft", "kharad-vul"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["basalt-crown"],
+  "relatedEntries": ["kharad-vul", "forge-path", "brakka-ironveil"],
+  "atAGlance": "The Keepers are an oath-faith devoted to binding craft, duty, and community survival into sacred law.",
+  "sageNotes": "Their shrines are built into working walls, not hidden behind gold doors. Keepers teach that the Ninth Rivet is the one you set for someone you will never meet: a promise to future hands. In siege time, they run triage, witness contracts, and pronounce which evacuations are lawful when panic turns neighbors into rivals. Many city folk distrust priests, but few refuse a Keeper blessing before a lift descent.",
+  "gameInformation": "Use as a stabilizing institution with authority over oaths, reparations, and emergency rites. Mechanical angle: Keeper witnesses can validate ceasefires, debt forgiveness, or command transfers. Hook: forged shrine seals are being used to redirect refugees into a Synod kill corridor."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "hunger-path",
+  "title": "Ascendency Path of Hunger",
+  "type": "ascendency-path",
+  "tags": ["predation", "drain", "risk-reward"],
+  "threatLevel": "cataclysmic",
+  "connectedFactions": ["hollow-synod", "rootbound-choir"],
+  "relatedEntries": ["ascendency-v1", "wild-path", "hollow-synod"],
+  "atAGlance": "A dangerous predatory path that converts successful pressure into escalating personal momentum.",
+  "sageNotes": "Hunger bearers ride momentum like apex predators on a fresh trail. Each successful strike feeds the next, climbing from pressure toward obsession with alarming speed. Across Vharos, this path is revered and feared in equal measure, for the same fire that saves a warband can also devour it.",
+  "gameInformation": "High-risk path for aggressive builds. Use strict scaling limits on drain mechanics and include narrative consequences for repeated overuse."
+}

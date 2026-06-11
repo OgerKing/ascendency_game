@@ -1,0 +1,12 @@
+{
+  "id": "chain-sentinel-fighter",
+  "title": "Chain Sentinel Fighter School",
+  "type": "class",
+  "tags": ["class", "fighter", "control", "defense", "urban"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["basalt-crown"],
+  "relatedEntries": ["kharad-vul", "chain-path", "keepers-of-the-ninth-rivet"],
+  "atAGlance": "Chain Sentinels are formation fighters who specialize in holding stairwells, bridge mouths, and lift landings against larger forces.",
+  "sageNotes": "Their drills look dull until battle begins. A Chain Sentinel fights in measured half-steps, always counting rails, walls, and drop-offs before steel meets steel. Recruits spend weeks learning bell signals and evacuation lane law, because their duty is to hold order when panic does more damage than blades. In tavern boasts they are called 'the ones who do not retreat'; in truth, they retreat on purpose, one marker at a time, so everyone else can live.",
+  "gameInformation": "Best used as disciplined allies or recurring rivals in city-defense arcs. Emphasize reaction attacks, opportunity control, and formation bonuses when adjacent to allies or terrain edges. Hook: a sentinel instructor requests escort for a civilian drill route now targeted by Synod infiltrators."
+}

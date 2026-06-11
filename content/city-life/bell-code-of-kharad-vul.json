@@ -1,0 +1,12 @@
+{
+  "id": "bell-code-of-kharad-vul",
+  "title": "Bell Code of Kharad-Vul",
+  "type": "city-life",
+  "tags": ["city-life", "law", "custom", "kharad-vul", "signals"],
+  "threatLevel": "cataclysmic",
+  "connectedFactions": ["basalt-crown", "keepers-of-the-ninth-rivet"],
+  "relatedEntries": ["kharad-vul", "chain-sentinel-fighter", "magistrate-thorn-ironbell"],
+  "atAGlance": "Kharad-Vul's Bell Code is a civic alarm law that governs movement, curfew, triage priority, and military command handoff during crisis states.",
+  "sageNotes": "In Kharad-Vul, bells are not background noise; they are law spoken in iron. One pattern orders shutters and water lines, another clears lift lanes for wounded, and another still means every armed hand reports to assigned chokepoints. Children learn the first three bell patterns before they can write their names, because misunderstanding a signal can kill a whole stair-block. Outsiders complain it feels harsh until the first collapse night, when ordered panic turns out to be the only kind that leaves survivors.",
+  "gameInformation": "Use Bell Code as a dynamic scene clock and legal pressure system. PCs who follow code gain faster movement, civic cooperation, and credible authority in crowds; those who break it may trigger arrests, blocked access, or public distrust. Hook: forged bell signals are redirecting militias away from a planned Synod breach corridor."
+}

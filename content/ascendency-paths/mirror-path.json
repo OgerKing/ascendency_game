@@ -1,0 +1,12 @@
+{
+  "id": "mirror-path",
+  "title": "Ascendency Path of Mirror",
+  "type": "ascendency-path",
+  "tags": ["reflection", "counterplay", "illusion"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["cinder-concord"],
+  "relatedEntries": ["ascendency-v1", "veil-path", "cinder-concord"],
+  "atAGlance": "A reactive path that reflects pressure back onto attackers through feints, doubles, and reversals.",
+  "sageNotes": "Mirror adepts win by reading intent and returning aggression to its sender. Feints, doubles, and sudden reversals are their native tongue, especially against proud opponents. In dueling halls they are mocked as tricksters; in campaign ledgers they are marked as survivors.",
+  "gameInformation": "Best for reaction-heavy play. Feature themes include damage reflection caps, decoy projections, and once-per-round counter windows."
+}

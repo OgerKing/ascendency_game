@@ -1,0 +1,12 @@
+{
+  "id": "cinder-concord",
+  "title": "The Cinder Concord",
+  "type": "faction",
+  "tags": ["brokers", "relics", "espionage", "contracts"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["basalt-crown", "rootbound-choir", "hollow-synod"],
+  "relatedEntries": ["emberfall-crossing", "veil-path", "session-one-breaking-of-kharad-vul"],
+  "atAGlance": "A trade intelligence cartel that profits from every front and pretends to belong to none.",
+  "sageNotes": "The Cinder Concord speaks softly, counts quickly, and profits from hearing tomorrow's crisis before dawn. Every bargain carries two prices, coin in hand and obligation deferred, and both are written down. In Emberfall, people curse the Concord at supper and hire them before first bell.",
+  "gameInformation": "Concord contracts grant fast access to rare goods, maps, and deniable support teams. Debt markers can be spent by the GM to introduce complications or force hard bargains in politically sensitive scenes."
+}

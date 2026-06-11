@@ -1,0 +1,12 @@
+{
+  "id": "rootbound-choir",
+  "title": "The Rootbound Choir",
+  "type": "faction",
+  "tags": ["druidic", "jungle", "beasts", "rites"],
+  "threatLevel": "high",
+  "connectedFactions": ["basalt-crown", "cinder-concord"],
+  "relatedEntries": ["verdant-maw", "wild-path", "foundations"],
+  "atAGlance": "A confederation of jungle mystics who claim custodianship over Vharos' oldest living networks.",
+  "sageNotes": "The Rootbound Choir keeps the oldest jungle covenants, defending sacred growth while bargaining fiercely over access and survival. They are implacable against trespass and unexpectedly generous to those who honor terms. In the Maw, their blessing can mean safe passage; their anger can mean none at all.",
+  "gameInformation": "Choir alliances improve wilderness travel and disease mitigation. Offending sacred growth zones increases ambush frequency and blocks safe passage routes through the Verdant Maw."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "basalt-crown",
+  "title": "The Basalt Crown",
+  "type": "faction",
+  "tags": ["dwarven", "military", "fortress", "law"],
+  "threatLevel": "high",
+  "connectedFactions": ["hollow-synod", "cinder-concord"],
+  "relatedEntries": ["kharad-vul", "session-one-breaking-of-kharad-vul", "forge-path"],
+  "atAGlance": "The ruling war-command of Kharad-Vul. Efficient, oath-bound, and under immense pressure from multi-front siege collapse.",
+  "sageNotes": "The Basalt Crown rules by oath, ledger, and iron routine, holding Kharad-Vul together when fear would split it apart. Its captains are severe, yet siege years have taught them the line between rigid law and necessary mercy. To common folk, the Crown is both shield and burden: protection paid in duty.",
+  "gameInformation": "Allied parties gain access to heavy equipment, fortified rest sites, and military contracts. Breaking Crown oaths increases legal pressure and can remove urban support options until reparations are made."
+}

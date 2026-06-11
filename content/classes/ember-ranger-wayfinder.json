@@ -1,0 +1,12 @@
+{
+  "id": "ember-ranger-wayfinder",
+  "title": "Ember Ranger Wayfinder Discipline",
+  "type": "class",
+  "tags": ["class", "ranger", "scout", "survival", "frontier"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["cinder-concord", "rootbound-choir"],
+  "relatedEntries": ["emberfall-crossing", "the-cinder-vigil", "sister-halea-ashmantle"],
+  "atAGlance": "Ember Rangers are route-finders and skirmish scouts trained to read ashfall, spoor, and stormglass fractures before a caravan walks into a kill zone.",
+  "sageNotes": "A good Ember Ranger can tell you where danger will be an hour before it arrives. They mark safe paths with cinder pins, braided reed tags, and chalk glyphs that look like nonsense to everyone but trained eyes. In Vharos, merchants trust their route calls more than magistrates and priests put together. When a Wayfinder says 'we take the long stairs,' the smart response is not an argument but a tighter bootlace.",
+  "gameInformation": "Use as guides, outriders, or rivals in travel-heavy arcs. Emphasize ambush prevention, hazard spotting, and terrain repositioning over raw damage spikes. Hook: a missing wayfinder map cache could expose multiple refugee convoys to a Synod interception line."
+}

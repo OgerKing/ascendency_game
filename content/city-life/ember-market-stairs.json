@@ -1,0 +1,12 @@
+{
+  "id": "ember-market-stairs",
+  "title": "Ember Market Stairs",
+  "type": "city-life",
+  "tags": ["city-life", "market", "trade", "kharad-vul", "district"],
+  "threatLevel": "high",
+  "connectedFactions": ["basalt-crown", "cinder-concord", "ash-mark-brokers"],
+  "relatedEntries": ["kharad-vul", "ash-mark-brokers", "maela-stepscribe"],
+  "atAGlance": "The Ember Market Stairs are terraced trade lanes where salvage lots, ration grain, and relic scrap are sold under strict bell-timed traffic control.",
+  "sageNotes": "The market is built on steps because flat ground is too valuable for warehouses and war. Hawkers sing prices by terrace, not by street, and veteran buyers watch smoke direction before bidding on anything flammable. On calm days you can buy rope, furnace glass, caravan maps, and shrine nails in one climb; on breach days the same stairs become an evacuation river where coin means little and route priority means everything. Locals say the market has two currencies: metal in daylight, favors by dusk.",
+  "gameInformation": "Use for procurement scenes with time pressure and public witnesses. Treat each terrace as a mini-zone with unique goods and risk profile. Complications: counterfeit ration seals, panic stampede after a false alarm bell, or a salvage crate that awakens hostile attention mid-auction."
+}

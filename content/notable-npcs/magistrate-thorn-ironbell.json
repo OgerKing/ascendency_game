@@ -1,0 +1,12 @@
+{
+  "id": "magistrate-thorn-ironbell",
+  "title": "Magistrate Thorn Ironbell",
+  "type": "notable-npc",
+  "tags": ["npc", "magistrate", "law", "bell-code", "kharad-vul"],
+  "threatLevel": "high",
+  "connectedFactions": ["basalt-crown", "keepers-of-the-ninth-rivet"],
+  "relatedEntries": ["bell-code-of-kharad-vul", "kharad-vul", "chain-sentinel-fighter"],
+  "atAGlance": "Thorn Ironbell is the senior civic magistrate responsible for interpreting Bell Code violations during active siege conditions.",
+  "sageNotes": "Thorn keeps two gavels: one for ordinary court and one for breach law. He is famous for rulings that save districts and infamous for never softening a sentence just because panic made it understandable. In public he quotes code by beat count; in private he asks whether strict law is still law if everyone dies obeying it. When he summons witnesses at dawn, half the city trembles and the other half shows up armed with paperwork.",
+  "gameInformation": "Use as legal pressure, arbitration authority, or reluctant ally in civic crisis arcs. He can clear warrants, issue emergency passage writs, and sanction extraordinary actions under Bell Code. Conflict lever: Thorn may demand party testimony that implicates a useful ally."
+}

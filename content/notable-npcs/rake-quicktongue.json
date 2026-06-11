@@ -1,0 +1,12 @@
+{
+  "id": "rake-quicktongue",
+  "title": "Rake Quicktongue",
+  "type": "notable-npc",
+  "tags": ["npc", "slang", "runner", "informant", "slagline-cant"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["crownflame-lift-guild", "ash-mark-brokers"],
+  "relatedEntries": ["slagline-cant", "chain-and-cask", "red-cairn-caravan-league"],
+  "atAGlance": "Rake Quicktongue is a courier-informant who translates Slagline Cant across guilds, markets, and militia blocks before misunderstandings turn bloody.",
+  "sageNotes": "Rake talks like falling tools: fast, sharp, and dangerous if you stand in the wrong place. He learned cant in furnace alleys and turned it into a career carrying messages too subtle for official messengers and too urgent for tavern gossip. He can decode shift-wall marks at a glance and spot forged worker slang by a single misplaced verb. If Rake tells you a phrase was planted, assume someone wants a riot by midnight.",
+  "gameInformation": "Use as a mobile clue source, linguistic specialist, or unreliable ally with excellent timing. He can decode cant graffiti, identify fake work orders, and bridge communication between hostile districts. Complication: Rake is paid by multiple sides and may withhold one crucial translation unless protected."
+}

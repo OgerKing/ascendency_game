@@ -1,0 +1,12 @@
+{
+  "id": "liftmaster-odrin-slatehand",
+  "title": "Liftmaster Odrin Slatehand",
+  "type": "notable-npc",
+  "tags": ["npc", "engineer", "kharad-vul", "infrastructure", "guild"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["basalt-crown", "crownflame-lift-guild"],
+  "relatedEntries": ["kharad-vul", "crownflame-lift-guild", "brakka-ironveil"],
+  "atAGlance": "Odrin Slatehand controls emergency lift rotations in Kharad-Vul and can move an army or a refugee line with one chain order.",
+  "sageNotes": "Odrin smells of machine oil and hot iron filings, and he trusts neither nobles nor panic. He knows every lift tower by sound, claims he can hear a failing brake through festival drums, and keeps redundant keys sewn into his coat lining. People call him stubborn; survivors call him punctual. If Odrin says a platform cannot hold another wagon, arguing with him is just a slower way to fall.",
+  "gameInformation": "Use as a logistics gatekeeper for vertical movement and timed extractions. He can grant priority ascents, hidden service shafts, or shutdown authority over compromised towers. Complication: forged Odrin orders are circulating, creating lethal bottlenecks and faction blame spirals."
+}

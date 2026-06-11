@@ -1,0 +1,12 @@
+{
+  "id": "dusk-path",
+  "title": "Ascendency Path of Dusk",
+  "type": "ascendency-path",
+  "tags": ["shadow", "debuff", "misdirection"],
+  "threatLevel": "high",
+  "connectedFactions": ["cinder-concord", "hollow-synod"],
+  "relatedEntries": ["ascendency-v1", "veil-path", "emberfall-crossing"],
+  "atAGlance": "A dimlight path that blurs intentions, weakens enemy certainty, and enables surgical takedowns.",
+  "sageNotes": "Dusk adepts wield uncertainty like steel, clouding intent until enemies choose the wrong answer. Their strength is surgical pressure: break certainty, then strike with precision. In alley feuds and tunnel war alike, a Dusk bearer is remembered less for spectacle than for exact timing.",
+  "gameInformation": "Designed for rogues, bards, and control hybrids. Typical effects include mark suppression, reaction taxes, and concealment-triggered riders."
+}

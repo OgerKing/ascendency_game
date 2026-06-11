@@ -1,0 +1,12 @@
+{
+  "id": "veil-path",
+  "title": "Ascendency Path of Veil",
+  "type": "ascendency-path",
+  "tags": ["stealth", "fate", "mobility"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["cinder-concord"],
+  "relatedEntries": ["ascendency-v1", "emberfall-crossing", "cinder-concord"],
+  "atAGlance": "A precision path for repositioning, misdirection, and tempo manipulation under pressure.",
+  "sageNotes": "Veil adepts are masters of angle and tempo, slipping through notice before steel is even drawn. Their best tales are told in Emberfall lanes where one misstep can kindle a district feud. To walk the Veil is to win by position, misdirection, and the moment no one else perceived.",
+  "gameInformation": "Strong for rogues, rangers, and tactical casters. Core unlock examples: Veiled Step, Omen Split, Stolen Moment, and Crown of Echoes."
+}

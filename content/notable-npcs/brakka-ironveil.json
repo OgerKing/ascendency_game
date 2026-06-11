@@ -1,0 +1,12 @@
+{
+  "id": "brakka-ironveil",
+  "title": "Captain Brakka Ironveil",
+  "type": "notable-npc",
+  "tags": ["npc", "captain", "basalt-crown", "kharad-vul", "military"],
+  "threatLevel": "high",
+  "connectedFactions": ["basalt-crown"],
+  "relatedEntries": ["kharad-vul", "session-one-breaking-of-kharad-vul", "ironbound-barbarian-tradition"],
+  "atAGlance": "Captain Brakka Ironveil commands chainward defenses in Kharad-Vul and is known for keeping civilians alive while never sounding sentimental about it.",
+  "sageNotes": "Brakka speaks like a hammer strike: short, loud, and final. She keeps a tally board of names rescued, not enemies slain, though she will deny it if asked. In the Lower Forges she is feared for summary discipline, but lift workers trust her because she shares ration cuts and never abandons a rear guard. Her current obsession is proving that recent gate failures were sabotage, not simple fatigue.",
+  "gameInformation": "Roleplay as pragmatic, blunt, and mission-focused, with hidden compassion shown through actions. She can grant militia escorts, route authority, and temporary command backing when PCs prove reliability. Conflict lever: she may demand harsh tactical choices that strain party morals."
+}

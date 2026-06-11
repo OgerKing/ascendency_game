@@ -1,0 +1,12 @@
+{
+  "id": "chain-and-cask",
+  "title": "The Chain and Cask",
+  "type": "city-life",
+  "tags": ["city-life", "tavern", "kharad-vul", "chainwell", "rumors"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["basalt-crown", "cinder-concord"],
+  "relatedEntries": ["kharad-vul", "crownflame-lift-guild", "dorun-caskbinder"],
+  "atAGlance": "The Chain and Cask is Chainwell Ward's busiest liftworker tavern, where shift bells, debt rumors, and evacuation gossip trade hands faster than ale.",
+  "sageNotes": "If you need the city's true mood, don't ask the barracks; ask the bar rail at second bell. The Chain and Cask serves black-malt stout thick enough to stand a spoon in, plus a stew no one names but everyone orders. Lift crews chalk shift marks on beam-posts, brokers rent back-corner tables by the hour, and off-duty sentinels pretend not to listen while hearing everything. When the room goes quiet at once, either a Crown officer walked in or someone just named a district that's about to burn.",
+  "gameInformation": "Use as a rumor hub, recruitment scene, or social pressure cooker before crisis beats. Quick hooks: stolen lift keys offered in a back booth, a barkeep who logs every stranger's accent, and a secret Concord message drop hidden in empty keg rims. Social complications escalate when armed factions enter during active bell alerts."
+}

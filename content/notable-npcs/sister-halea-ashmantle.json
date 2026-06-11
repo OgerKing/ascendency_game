@@ -1,0 +1,12 @@
+{
+  "id": "sister-halea-ashmantle",
+  "title": "Sister Halea Ashmantle",
+  "type": "notable-npc",
+  "tags": ["npc", "healer", "refugee", "kharad-vul", "triage"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["keepers-of-the-ninth-rivet", "lantern-of-last-breath"],
+  "relatedEntries": ["kharad-vul", "session-one-breaking-of-kharad-vul", "lantern-of-last-breath"],
+  "atAGlance": "Sister Halea runs emergency triage lines in Kharad-Vul and is known for choosing who gets saved next when everyone is screaming.",
+  "sageNotes": "Halea never raises her voice; she does not need to. She carries a soot-marked ledger of the wounded and remembers each name even after the page is gone. Soldiers trust her because she refuses favoritism, and smugglers fear her because she notices every suspicious crate entering a hospice ward. If she asks your party for a corridor, she has already decided three lives depend on your answer.",
+  "gameInformation": "Use as a moral compass and pressure lever during crisis scenes. She can provide medical stabilization, eyewitness intelligence, and sanctuary access when convinced of party intent. Conflict lever: Halea will publicly denounce expedient cruelty, even if it complicates military objectives."
+}

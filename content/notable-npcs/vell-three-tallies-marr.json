@@ -1,0 +1,12 @@
+{
+  "id": "vell-three-tallies-marr",
+  "title": "Vell 'Three-Tallies' Marr",
+  "type": "notable-npc",
+  "tags": ["npc", "broker", "concord", "debt", "emberfall"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["cinder-concord", "basalt-crown"],
+  "relatedEntries": ["cinder-concord", "emberfall-crossing", "ash-mark-brokers"],
+  "atAGlance": "Vell Marr is a Concord fixer who tracks every favor in three ledgers: coin, blood, and silence.",
+  "sageNotes": "Nobody agrees how old Vell is because his face is always one expression away from confession. He can get forged stamps, hidden cargo space, and a clean exit from a district already on fire, but only if your debt profile amuses him. His nickname comes from his habit of checking three separate books before speaking any price. In polite company he calls himself a logistics consultant; in bad alleys he is the man who decides which rumor reaches the right ears first.",
+  "gameInformation": "Use as a recurring information broker with mixed loyalty. He offers shortcuts, contraband access, and introductions to gray-market actors. Debt track: each favor from Vell adds leverage that can return as blackmail, mission demands, or forced mediation between hostile factions."
+}

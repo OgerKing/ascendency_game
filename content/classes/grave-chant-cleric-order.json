@@ -1,0 +1,12 @@
+{
+  "id": "grave-chant-cleric-order",
+  "title": "Grave-Chant Cleric Order",
+  "type": "class",
+  "tags": ["class", "cleric", "rites", "healing", "funerary"],
+  "threatLevel": "high",
+  "connectedFactions": ["hollow-synod", "keepers-of-the-ninth-rivet"],
+  "relatedEntries": ["shatterveins", "bone-path", "keepers-of-the-ninth-rivet"],
+  "atAGlance": "Grave-Chant clerics are rite-keepers of battlefield death, sworn to guard bodies, banish corpse-magic, and preserve memory under siege conditions.",
+  "sageNotes": "Their liturgy sounds like low thunder in stone halls. A Grave-Chant cleric carries both poultices and nails: one hand for the living, one for sealing the dead from profanation. They are welcomed in plague camps, feared in necrotic zones, and watched carefully near Synod fronts where doctrine and duty collide. If one of them asks for silence before dawn, keep it. The dead are often listening first.",
+  "gameInformation": "Ideal as support-protectors in attrition scenes. Features should focus on anti-necrotic wards, triage under pressure, and corpse-control denial. Hook: stolen chant tablets are being used to counterfeit funerary rites and smuggle marked cadavers through city gates."
+}

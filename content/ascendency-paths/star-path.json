@@ -1,0 +1,12 @@
+{
+  "id": "star-path",
+  "title": "Ascendency Path of Star",
+  "type": "ascendency-path",
+  "tags": ["cosmic", "guidance", "fate"],
+  "threatLevel": "high",
+  "connectedFactions": ["cinder-concord", "basalt-crown"],
+  "relatedEntries": ["ascendency-v1", "dawn-path", "foundations"],
+  "atAGlance": "A cosmic guidance path blending foresight, precision support, and controlled bursts of stellar force.",
+  "sageNotes": "Star bearers are navigators of fate-lines, prized for turning uncertain omens into practical decisions. They read pattern within chaos and guide allies toward victories too narrow for ordinary sight. Caravan masters say a true Star adept saves lives twice: once before the danger, and once inside it.",
+  "gameInformation": "Hybrid support/control path with omen dice, reroute mechanics, and radiant-force spikes tuned for consistency over raw burst."
+}

@@ -1,0 +1,12 @@
+{
+  "id": "dorun-caskbinder",
+  "title": "Dorun Caskbinder",
+  "type": "notable-npc",
+  "tags": ["npc", "innkeeper", "tavern", "kharad-vul", "chain-and-cask"],
+  "threatLevel": "moderate",
+  "connectedFactions": ["basalt-crown", "crownflame-lift-guild"],
+  "relatedEntries": ["chain-and-cask", "kharad-vul", "liftmaster-odrin-slatehand"],
+  "atAGlance": "Dorun Caskbinder owns the Chain and Cask and keeps peace in his taproom with equal parts hospitality, memory, and a steel cudgel under the bar.",
+  "sageNotes": "Dorun pours slow and listens fast. He remembers who drank where on breach nights, who paid in Crown script, and who suddenly started asking tunnel questions they had no business asking. His tavern survives because he enforces one rule above all others: no knives out until the third warning bell, and by then everyone should be running anyway. Ask him for gossip, and he will ask what you did for the district before deciding what truth costs tonight.",
+  "gameInformation": "Use Dorun as a stable social anchor and witness source. He can provide rumor validation, introductions to lift crews, and emergency shelter for low-profile meetings. Complication: rival factions pressure him to falsify who met in his back room during a massacre investigation."
+}
