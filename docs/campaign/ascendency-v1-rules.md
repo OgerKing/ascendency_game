@@ -30,14 +30,14 @@
 - Path of Hunger
 - Path of Ruin
 - Path of Star
-- Path of SkillShot
+- Path of Skillshot
 
 ## Path Themes and Roles
 - **Frontline pressure:** War, Bone, Ruin, Chain
-- **Skirmish and burst:** Storm, Wild, Dusk, SkillShot
+- **Skirmish and burst:** Storm, Wild, Dusk, Skillshot
 - **Control and tempo:** Veil, Mirror, Tide
 - **Support and command:** Forge, Dawn, Star
-- **High-risk predation:** Hunger, SkillShot
+- **High-risk predation:** Hunger, Skillshot
 
 ## Progression Pattern
 - **Awakened (1-4):** one identity-defining minor feature.

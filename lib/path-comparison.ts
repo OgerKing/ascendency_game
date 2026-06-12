@@ -25,5 +25,5 @@ export const pathComparisonRows: PathComparisonRow[] = [
   { id: "hunger-path", role: "Predatory snowball", complexity: "High", risk: "High", powerCurve: "Volatile", bestFit: "Barbarian, Warlock, Ranger" },
   { id: "ruin-path", role: "Siege breaker", complexity: "Medium", risk: "High", powerCurve: "Late spike", bestFit: "Fighter, Paladin, Sorcerer" },
   { id: "star-path", role: "Precision support", complexity: "Medium", risk: "Low", powerCurve: "Late payoff", bestFit: "Wizard, Cleric, Bard" },
-  { id: "SkillShot-path", role: "Mutual kill sniper", complexity: "High", risk: "High", powerCurve: "Volatile spike", bestFit: "Ranger, Rogue, Fighter" },
+  { id: "skillshot-path", role: "Mutual kill sniper", complexity: "High", risk: "High", powerCurve: "Volatile spike", bestFit: "Ranger, Rogue, Fighter" },
 ];

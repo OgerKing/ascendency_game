@@ -18,10 +18,10 @@ Use this matrix for session-zero selection and mid-campaign respecialization con
 | Hunger | Predatory snowball | High | High | Volatile | Barbarian, Warlock, Ranger |
 | Ruin | Siege breaker | Medium | High | Late spike | Fighter, Paladin, Sorcerer |
 | Star | Precision support | Medium | Low | Late payoff | Wizard, Cleric, Bard |
-| SkillShot | Mutual kill sniper | High | High | Volatile spike | Ranger, Rogue, Fighter |
+| Skillshot | Mutual kill sniper | High | High | Volatile spike | Ranger, Rogue, Fighter |
 
 ## Quick Pick Heuristic
 - Want reliable frontline pressure: War, Bone, Chain.
 - Want control and tricks: Veil, Mirror, Tide, Dusk.
 - Want team support and leadership: Forge, Dawn, Star.
-- Want high-risk/high-reward aggression: Hunger, Ruin, Storm, SkillShot.
+- Want high-risk/high-reward aggression: Hunger, Ruin, Storm, Skillshot.
