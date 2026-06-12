@@ -25,7 +25,7 @@ const dungeonMasterDocs = [
   {
     slug: "ascendency-path-comparison",
     label: "Ascendency Path Comparison",
-    description: "Side-by-side matrix for all 14 paths and quick pick guidance.",
+    description: "Side-by-side matrix for all 15 paths and quick pick guidance.",
   },
   {
     slug: "cyclopedia-entry-template",

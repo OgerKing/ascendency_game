@@ -9,7 +9,7 @@ export default function PathsPage() {
         <p className="kicker">Path Comparison</p>
         <h1>Choose your Ascendency style</h1>
         <p>
-          Compare all 14 Ascendency paths by role, complexity, risk, and power curve.
+          Compare all 15 Ascendency paths by role, complexity, risk, and power curve.
           Click any path to open its full cyclopedia entry.
         </p>
       </section>

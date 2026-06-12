@@ -22,6 +22,7 @@ import mirrorPath from "@/content/ascendency-paths/mirror-path.json";
 import hungerPath from "@/content/ascendency-paths/hunger-path.json";
 import ruinPath from "@/content/ascendency-paths/ruin-path.json";
 import starPath from "@/content/ascendency-paths/star-path.json";
+import SkillShotPath from "@/content/ascendency-paths/SkillShot-path.json";
 import sessionOne from "@/content/sessions/session-one-breaking-of-kharad-vul.json";
 import ironboundBarbarianTradition from "@/content/classes/ironbound-barbarian-tradition.json";
 import chainSentinelFighter from "@/content/classes/chain-sentinel-fighter.json";
@@ -102,6 +103,7 @@ const rawEntries = [
   hungerPath,
   ruinPath,
   starPath,
+  SkillShotPath,
   sessionOne,
   ironboundBarbarianTradition,
   chainSentinelFighter,

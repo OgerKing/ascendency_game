@@ -1,0 +1,12 @@
+{
+  "id": "SkillShot-path",
+  "title": "Ascendency Path of SkillShot",
+  "type": "ascendency-path",
+  "tags": ["precision", "marksmanship", "self-sacrifice"],
+  "threatLevel": "high",
+  "connectedFactions": ["cinder-concord", "hollow-synod"],
+  "relatedEntries": ["ascendency-v1", "storm-path", "ruin-path"],
+  "atAGlance": "A precision path that trades your own lifeforce for impossible shots and mutual kill pressure.",
+  "sageNotes": "SkillShots are feared because they do not bluff. They pin fate to a single line and accept that the recoil may break them too. Veterans describe this path as a duelist's pact at range: if the target falls, the shooter may fall with them, and both sides know it before the trigger is pulled.",
+  "gameInformation": "Designed for ranged burst with explicit self-costs. Signature effects should convert HP, hit dice, or exhaustion pressure into shot quality, while major finishers can force mirrored consequences on both shooter and target. Keep mutual-destruction payoffs dramatic but limited to avoid trivializing boss pacing."
+}
